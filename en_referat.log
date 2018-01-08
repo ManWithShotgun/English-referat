@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.20)  2 JAN 2018 21:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.20)  8 JAN 2018 20:58
 entering extended mode
 **./en_referat.tex
 (en_referat.tex
@@ -502,10 +502,6 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 31.
@@ -786,6 +782,45 @@ Package babel Info: Redefining russian shorthand "~
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 142.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 142.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 142.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 142.
+ [11
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 188.
+ [12
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 270.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 270.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 270.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 270.
+ [13
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
 Package babel Info: Redefining russian shorthand "|
@@ -796,7 +831,20 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 59.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 59.
- [11
+ [14
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 59.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 59.
+ [15
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -805,15 +853,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
  (en_referat.aux (src/title_referat.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
+Package rerunfilecheck Info: File `en_referat.out' has not changed.
+(rerunfilecheck)             Checksum: 391C975EB015095641F99D34A7818C29;1880.
 
-
-Package rerunfilecheck Warning: File `en_referat.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `en_referat.out':
-(rerunfilecheck)             Before: E429987733FFF116A6C0B9D73F5166C2;2084
-(rerunfilecheck)             After:  391C975EB015095641F99D34A7818C29;1880.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -821,31 +863,26 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  )
 (\end occurred when \ifx on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
- 12756 strings out of 493312
- 171266 string characters out of 3140197
+ 12760 strings out of 493312
+ 171349 string characters out of 3140197
  251527 words of memory out of 3000000
- 16107 multiletter control sequences out of 15000+200000
+ 16105 multiletter control sequences out of 15000+200000
  10672 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,5n,35p,1064b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{
-section.2.2} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.1} has been referenced but does not exist
-, replaced by a fixed one
-
- <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1
-440.pk> <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
-0\larm1200.pk> <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
-a\dpi600\labx1440.pk> <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
-h\lh-t2a\dpi600\larm1440.pk><D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb><D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
-2.pfb><D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/My
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MyPrograms/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on en_referat.pdf (11 pages, 159851 bytes).
+ <C:\Users\ILIA\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1440.pk> <C:\Users\ILIA\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\ILI
+A\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Us
+ers\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk>
+<D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MyProgr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/MyPrograms/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MyPrograms/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb><D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb>
+Output written on en_referat.pdf (15 pages, 182296 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 441 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
