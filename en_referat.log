@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.20)  10 JAN 2018 00:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.20)  10 JAN 2018 08:50
 entering extended mode
 **./en_referat.tex
 (en_referat.tex
@@ -519,6 +519,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 31.
@@ -623,13 +625,13 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 32.
  [6
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -640,13 +642,13 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 26.
  [7
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -673,121 +675,65 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
-) (src/7-compression.tex
-Underfull \hbox (badness 1472) in paragraph at lines 23--1
-\T2A/cmr/m/n/14.4 related BI&A research. Egovernment research often involves re
-searchers
- []
-
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
-[9
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!])
-Overfull \hbox (7.51471pt too wide) in paragraph at lines 43--42
-[]\T2A/cmr/m/n/14.4 In astronomy, the Sloan Digital Sky Survey (SDSS)5 shows ho
-w computational
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 42.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 42.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 42.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 42.
-[10
+(babel)             in language  on input line 25.
+ [9
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
+Underfull \hbox (badness 1472) in paragraph at lines 26--41
+\T2A/cmr/m/n/14.4 related BI&A research. Egovernment research often involves re
+searchers
+ []
+
+) (src/7-compression.tex
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 29.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 29.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 29.
+ [10
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (0.65967pt too wide) in paragraph at lines 43--58
+[]\T2A/cmr/m/n/14.4 In astronomy, the Sloan Digital Sky Survey (SDSS) shows how
+ computational
+ []
+
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 48.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 48.
  [11
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-\IeC {\CYRG }\IeC {\CYRL }\IeC {\CYRA }\IeC {\CYRV }\IeC {\CYRA } 2.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 43.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 43.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\prime' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 48.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 48.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 48.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 48.
-[12
-Non-PDF special ignored!
-Non-PDF special ignored!
-
-
-Non-PDF special ignored!
-Non-PDF special ignored!]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 50.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 50.
- (src/conclusion.tex)
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 53.
 Package babel Info: Redefining russian shorthand "~
@@ -796,7 +742,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 53.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 53.
- [13
+ [12
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -861,7 +807,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 68.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 68.
-[14
+[13
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -898,7 +844,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 58.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 58.
- [15
+ [14
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -931,7 +877,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 55.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 55.
-[16
+[15
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -969,7 +915,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 88.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 88.
-[17
+[16
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -982,60 +928,60 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 148.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 148.
+ [17
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 195.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 195.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 195.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 195.
  [18
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 262.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 262.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 262.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 262.
  [19
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 263.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 263.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 263.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 263.
- [20
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-Underfull \hbox (badness 1472) in paragraph at lines 264--279
+Underfull \hbox (badness 1472) in paragraph at lines 263--278
 \T2A/cmr/m/n/14.4 related BI&A research. Egovernment research often involves re
 searchers
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 305.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 305.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 305.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 307.
-[21
+(babel)             in language  on input line 305.
+[20
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
 
-Overfull \hbox (7.51471pt too wide) in paragraph at lines 322--61
-[]\T2A/cmr/m/n/14.4 In astronomy, the Sloan Digital Sky Survey (SDSS)5 shows ho
-w computational
+Overfull \hbox (0.65967pt too wide) in paragraph at lines 319--61
+[]\T2A/cmr/m/n/14.4 In astronomy, the Sloan Digital Sky Survey (SDSS) shows how
+ computational
  []
 
 Package babel Info: Redefining russian shorthand "|
@@ -1046,7 +992,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 61.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 61.
-[22
+[21
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1055,9 +1001,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
  (en_referat.aux (src/title_referat.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
-Package rerunfilecheck Info: File `en_referat.out' has not changed.
-(rerunfilecheck)             Checksum: 8431BA8EFE3EEA791C7F8A9AC100D3C9;2839.
 
+
+Package rerunfilecheck Warning: File `en_referat.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `en_referat.out':
+(rerunfilecheck)             Before: 60D46986639DA88D05C2F29A34901E02;3011
+(rerunfilecheck)             After:  885AA4C6068FFDCD7F9355717CD1D596;2280.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1065,26 +1017,27 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
  )
 (\end occurred when \ifx on line 13 was incomplete) 
 Here is how much of TeX's memory you used:
- 12801 strings out of 493312
- 172282 string characters out of 3140197
- 248538 words of memory out of 3000000
+ 12796 strings out of 493312
+ 172171 string characters out of 3140197
+ 249538 words of memory out of 3000000
  16111 multiletter control sequences out of 15000+200000
- 10672 words of font info for 29 fonts, out of 3000000 for 9000
+ 9798 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,6n,35p,1065b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\ILIA\AppData\Loca
-l\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1440.pk> <C:\Users\ILIA\AppDa
-ta\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\ILI
-A\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Us
-ers\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk>
-<D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MyProgr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/MyPrograms/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MyPrograms/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb><D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb>
-Output written on en_referat.pdf (22 pages, 207036 bytes).
+pdfTeX warning (dest): name{
+chapter.2} has been referenced but does not exist, replaced by a fixed one
+
+ <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1
+200.pk> <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
+0\labx1440.pk> <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
+a\dpi600\larm1440.pk><D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MyProgram
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MyPrograms/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on en_referat.pdf (21 pages, 200816 bytes).
 PDF statistics:
- 503 PDF objects out of 1000 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 487 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
