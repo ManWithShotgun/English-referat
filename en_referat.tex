@@ -18,6 +18,7 @@
 \renewcommand\figurename{Рисунок}
 \renewcommand\tablename{Таблица}
 \newcommand{\intro}{ВВЕДЕНИЕ}
+\newcommand{\annotation}{АННОТАЦИЯ}
 \newcommand{\prolog}{ПРИЛОЖЕНИЕ}
 
 \include{src/title_referat}
@@ -30,6 +31,9 @@
 \chapter*{\intro}
 \addcontentsline{toc}{chapter}{\intro}
 \input{src/introduction}
+\chapter*{\annotation}
+\addcontentsline{toc}{chapter}{\annotation}
+\input{src/annotation}
 
 \chapter{BUSINESS INTELLIGENCE AND ANALYTICS: FROM BIG DATA TO BIG IMPACT}
 \input{src/1-compression}
