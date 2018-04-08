@@ -20,6 +20,7 @@
 \newcommand{\intro}{ВВЕДЕНИЕ}
 \newcommand{\annotation}{АННОТАЦИЯ}
 \newcommand{\prolog}{ПРИЛОЖЕНИЕ}
+\newcommand{\translate}{ПЕРЕВОД}
 
 \include{src/title_referat}
 
@@ -35,7 +36,7 @@
 \addcontentsline{toc}{chapter}{\annotation}
 \input{src/annotation}
 
-\chapter{BUSINESS INTELLIGENCE AND ANALYTICS: FROM BIG DATA TO BIG IMPACT}
+\chapter{BUSINESS INTELLIGENCE AND ANALYTICS: FROM BIG DATA TO BIG IMPACT (Бизнес-анализ и аналитика: из больших данных к большому результату)}
 \input{src/1-compression}
 \input{src/2-compression}
 \input{src/3-compression}
@@ -44,19 +45,21 @@
 \input{src/6-compression}
 \input{src/7-compression}
 
-\chapter{Translate}
+\chapter{BIG DATA ANALYTICS (Анализ больших данных)}
 \input{src/1-translate-eng}
-\input{src/1-translate-ru}
-
-%\chapter{Рождения $Z^\prime$ - бозонов в протон-протонных столкновениях с учетом эффектов $Z$ - $Z^\prime$ смешивания}
-%\input{src/2-1-Zprime}
-%\input{src/2-2-Zprime}
-%\input{src/2-3-Zprime}
 
 \newpage
-\chapter*{ЗАКЛЮЧЕНИЕ}
+\chapter*{ЗАКЛЮЧЕНИЕ (Conclusion)}
 \addcontentsline{toc}{chapter}{ЗАКЛЮЧЕНИЕ} % in Content
-%\input{src/conclusion}
+\input{src/conclusion}
+
+\newpage
+\chapter*{ТЕРМИНОЛОГИЧЕСКИЙ СЛОВАРЬ}
+\addcontentsline{toc}{chapter}{ТЕРМИНОЛОГИЧЕСКИЙ СЛОВАРЬ}
+\input{src/terminology}
+
+\chapter{\translate}
+\input{src/1-translate-ru}
 
 \newpage
 \begin{thebibliography}{9999.}
